@@ -1,0 +1,12 @@
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\bin\Debug\BackgroundWorkerWPF.exe.config
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\bin\Debug\BackgroundWorkerWPF.exe
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\bin\Debug\BackgroundWorkerWPF.pdb
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\MainWindow.baml
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\MainWindow.g.cs
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\App.g.cs
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\BackgroundWorkerWPF_MarkupCompile.cache
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\BackgroundWorkerWPF.g.resources
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\BackgroundWorkerWPF.Properties.Resources.resources
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\BackgroundWorkerWPF.csproj.GenerateResource.Cache
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\BackgroundWorkerWPF.exe
+E:\Workspace\Programming C#\BackgroundWorkerWPF\BackgroundWorkerWPF\obj\Debug\BackgroundWorkerWPF.pdb
