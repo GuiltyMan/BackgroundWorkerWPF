@@ -16,15 +16,15 @@ namespace BackgroundWorkerWPF
         /// Property Changed.
         /// </summary>
         /// <param name="propertyName">Property Name.</param>
-        protected void OnPropertyChanged(string propertyName)
+        protected void OnPropertyChanged( string propertyName )
         {
             // Get the current property changed event handler
             PropertyChangedEventHandler handler = PropertyChanged;
 
             // Raise the property changed event when the handler is not null
-            if (handler != null)
+            if( handler != null )
             {
-                handler(this, new PropertyChangedEventArgs(propertyName));
+                handler( this, new PropertyChangedEventArgs( propertyName ) );
             }
         }
     }
